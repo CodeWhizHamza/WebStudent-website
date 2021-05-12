@@ -1,7 +1,8 @@
-@import 'abstracts/mixins';
-@import 'abstracts/variables';
+@import "abstracts/mixins";
+@import "abstracts/variables";
 
-@import 'base/base';
-@import 'base/typography';
+@import "base/base";
+@import "base/typography";
 
-@import 'layout/footer';
+@import "layout/navigation";
+@import "layout/footer";
